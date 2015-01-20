@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/massif.iml" filepath="$PROJECT_DIR$/massif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qframe-core/qframe-core.iml" filepath="$PROJECT_DIR$/qframe-core/qframe-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qframe-demo-springmvc/qframe-demo-springmvc.iml" filepath="$PROJECT_DIR$/qframe-demo-springmvc/qframe-demo-springmvc.iml" />
+    </modules>
+  </component>
+</project>
