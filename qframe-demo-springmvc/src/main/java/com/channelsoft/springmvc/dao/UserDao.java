@@ -8,5 +8,5 @@ import org.springframework.data.repository.PagingAndSortingRepository;
  * Created by yuanshun on 2015/1/19.
  */
 public interface UserDao extends PagingAndSortingRepository<User, Long> {
-
+    public User findByLoginName(String loginName);
 }

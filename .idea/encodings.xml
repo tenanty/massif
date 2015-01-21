@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/persistence/DynamicSpecifications.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/persistence/Hibernates.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/persistence/SearchFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/security/util/Cryptos.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/security/util/Digests.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/util/Clock.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/util/Collections3.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/util/Encodes.java" charset="UTF-8" />
@@ -9,5 +14,13 @@
     <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/util/PropertiesLoader.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/util/Reflections.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/util/Threads.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/applicationContext-shiro.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/applicationContext.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/applicationContext.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/log4jdbc.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/logback.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/webapp/WEB-INF/views" charset="UTF-8" />
   </component>
 </project>
