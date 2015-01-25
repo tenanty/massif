@@ -3,6 +3,9 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/qframe-demo-springmvc" />
+  </component>
   <component name="IdProvider" IDEtalkID="F6D13E9282C45E18D1219112E6C068C9" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">

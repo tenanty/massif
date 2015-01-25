@@ -16,7 +16,7 @@ import java.util.List;
  */
 @Entity
 @Table(name = "ss_user")
-public class User {
+public class User extends IdEntity  {
     private String longinName;
     private String name;
     private String plainPassword;

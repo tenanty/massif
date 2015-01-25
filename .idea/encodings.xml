@@ -15,9 +15,7 @@
     <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/util/Reflections.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-core/src/main/java/com/channelsoft/qframe/core/util/Threads.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/application.properties" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/application.properties" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/applicationContext-shiro.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/applicationContext.xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/applicationContext.xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/log4jdbc.properties" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/qframe-demo-springmvc/src/main/resources/logback.xml" charset="UTF-8" />

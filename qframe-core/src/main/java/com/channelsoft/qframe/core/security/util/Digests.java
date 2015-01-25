@@ -5,8 +5,8 @@
  *******************************************************************************/
 package com.channelsoft.qframe.core.security.util;
 
+import com.channelsoft.qframe.core.util.Exceptions;
 import org.apache.commons.lang3.Validate;
-import org.springside.modules.utils.Exceptions;
 
 import java.io.IOException;
 import java.io.InputStream;
