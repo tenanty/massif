@@ -3,7 +3,6 @@ package com.channelsoft.springmvc.service.account;
 import com.channelsoft.qframe.core.security.util.Digests;
 import com.channelsoft.qframe.core.util.Clock;
 import com.channelsoft.qframe.core.util.Encodes;
-import com.channelsoft.springmvc.dao.TaskDao;
 import com.channelsoft.springmvc.dao.UserDao;
 import com.channelsoft.springmvc.entity.User;
 import org.apache.commons.lang3.StringUtils;
@@ -30,7 +29,6 @@ public class AccountService {
     private static Logger logger = LoggerFactory.getLogger(AccountService.class);
 
     private UserDao userDao;
-    private TaskDao taskDao;
     private Clock clock = Clock.DEFAULT;
 
     public List<User> getAllUser() {
@@ -98,11 +96,6 @@ public class AccountService {
     @Autowired
     public void setUserDao(UserDao userDao) {
         this.userDao = userDao;
-    }
-
-    @Autowired
-    public void setTaskDao(TaskDao taskDao) {
-        this.taskDao = taskDao;
     }
 
     public void setClock(Clock clock) {
